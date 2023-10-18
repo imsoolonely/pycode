@@ -6,4 +6,9 @@ def hello:
        print("printed")
     else:
       continue
+def even():
+    if num%2==0:
+        bo = True;
+    else:
+        bo = True;
     
